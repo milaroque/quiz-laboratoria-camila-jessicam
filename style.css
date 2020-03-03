@@ -1,0 +1,25 @@
+body {
+    background-color: lightcoral;
+}
+
+header {
+    background-color: lightcoral;
+    text-align: center;
+    padding-bottom: 20px;
+}
+main {
+    text-align: center;
+}
+
+main h1 {
+    padding-bottom: 10px;
+}
+
+table {
+    margin: auto;
+    }
+
+td {
+    border: black solid 2px;
+    padding: 30px;
+}
